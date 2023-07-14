@@ -1,0 +1,10 @@
+Unnamed: 0,max depth,max feature,trees,bootstrap size,batch size,iteration
+RF,0,0.005,0.086,0,,
+RotF,0,,0.517,0.164,,
+RotF-SPCA,0,,0.472,0.025,0.993,0.049
+SRF,0,0.001,0.618,0,,
+SRotF,0,,0.425,0,,
+SRotF-SPCA,0,,0.378,0.001,0.825,0.049
+TWRF,0,0,0.747,0,,
+TWRotF,0,,0.556,0,,
+TWRotF-SPCA,0,,0.717,0.005,0.773,0.024
